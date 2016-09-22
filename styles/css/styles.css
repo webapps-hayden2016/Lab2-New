@@ -1,0 +1,31 @@
+﻿.jumbotron{
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+}
+nav{
+    text-align: center;
+
+}
+
+li{
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: orangered;
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+a:hover{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
